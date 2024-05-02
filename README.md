@@ -1,4 +1,6 @@
-# About Me:
+<br>
+<img align="center" alt="Coding"  src="https://developer.apple.com/news/images/og/apple-developer-og.png">
+<br>
 
 👋 Hello there! I'm Abdelrahman, a passionate Computer Science student with a keen interest in iOS development.
 
